@@ -36,7 +36,9 @@
       "exclude_matches": [
         "https://plus.google.com/hangouts/*",
         "https://hangouts.google.com/*",
-        "https://meet.google.com/*"
+        "https://meet.google.com/*",
+        "https://www.google.com/travel/*",
+        "https://www.google.com/flights/*"
       ],
       "css": ["inject.css"],
       "js": ["inject.js"]
